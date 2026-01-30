@@ -1,0 +1,6 @@
+[Server] Scraping API running on http://localhost:3001
+[Server] POST /api/scrape to extract website data
+[Server] Scraping: https://www.target.com/
+[Server] Target URL: https://www.target.com/
+[Server] Received 330608 bytes
+[Server] Extraction complete
